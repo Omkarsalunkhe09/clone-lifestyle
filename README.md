@@ -1,44 +1,38 @@
 # clone-lifestyle
 
-![first-cry](https://user-images.githubusercontent.com/96103401/158337065-c1e2e63e-7bcf-41b7-924b-3332eb5606a3.png)
-
+![Lifestylestore](https://user-images.githubusercontent.com/96103401/158479838-6fa581d1-df85-4287-aef3-3ae890f1a40f.png)
 
 # Welcome :wave:
 
-### About first-cry:
+### About Lifestylestore:
 
-> FirstCry is an Indian e-commerce company, headquartered in Pune. The company, launched in 2010, initially focused on baby products retailing. In January 2020, the company had over 380 stores across India.FirstCrys opened its first outlet in Srinagar in May 2019.It is into its series E round of financing.
+> Lifestyle is an Indian e-commerce company, headquartered in Chenni. The company launched in 1999, Lifestyle is an Emirati retail fashion brand which comes under Dubai-based retail & Each Lifestyle store offers womenswear, menswear, kidswear, footwear & bags, beauty & skincare, accessories (watches, fragrances, sunglasses) & more.
 
 # About this project ⏬
 
 ## Run Locally :-
-``git clone https://github.com/unnati1004/firstcry.git``
+``git clone https://github.com/Omkarsalunkhe09/lifestyle.git``
 
 ## Go to project directory:- 
-`cd first-cry`
+`cd lifestyle`
 
 ## Presentation :-
-[Demo of project](https://drive.google.com/file/d/1zpSMY2SW8PYOS4i9NioGIY-cnNR78kAE/view?usp=sharing)
+[Demo of project](https://drive.google.com/file/d/1D7utIlmbQ6yaJ7NzHFzEVZ31MqY7J7L8/view)
 
 ## deployment Link:-
-https://friendly-goldwasser-04fd7a.netlify.app/index.html
+https://dazzling-meitner-0eb71c.netlify.app
 
 ## Contributers :- 
 - #### [Omkar](https://www.linkedin.com/in/omkar-salunkhe-1ba371228/)
-- #### [Unnati](https://www.linkedin.com/in/unnati-gandhi-122212230/)
-- #### [Vineeth](https://www.linkedin.com/in/vineethevk/)
-- #### [Sumit](https://www.linkedin.com/in/sumit-narwal-77a828138/)
-- #### [Tarun](https://www.linkedin.com/in/tarun-rakhunde-a65aa5228/)
-
-
+- #### [Abhishek](https://www.linkedin.com/in/abhishek-dadhich-743bb422a/)
+- #### [Deeksha](https://www.linkedin.com/in/deeksha-sharma-5320a8202/)
+- #### [Reshma](https://www.linkedin.com/in/reshma-a8a871189/)
 
 ## Tech Stack :- 
 
-- #### Express
-- #### Models
-- #### Views
-- #### Controllers 
-- #### MongoDb
+- #### HTML
+- #### CSS
+- #### Javascript
 
 ## Pages & Features :point_down:
 
@@ -68,6 +62,6 @@ https://friendly-goldwasser-04fd7a.netlify.app/index.html
 
 
 ## Screenshots :- 
-## For more details :- ![frontpage](https://user-images.githubusercontent.com/96103401/158337719-d246069e-bd07-4be7-84e6-b675f776de92.png)
+## For more details :- ![frontpage](https://user-images.githubusercontent.com/96103401/158800507-f60b4236-f11f-4bc9-88dc-e89f386f7fbb.png)
 
-[Blog](https://medium.com/@ossalunkhe09/cloning-firstcry-website-cf13071992cf)
+[Blog(https://link.medium.com/C5O6mlCR6lb)
