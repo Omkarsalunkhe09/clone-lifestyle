@@ -64,4 +64,4 @@ https://dazzling-meitner-0eb71c.netlify.app
 ## Screenshots :- 
 ## For more details :- ![frontpage](https://user-images.githubusercontent.com/96103401/158800507-f60b4236-f11f-4bc9-88dc-e89f386f7fbb.png)
 
-[Blog(https://link.medium.com/C5O6mlCR6lb)
+[Blog](https://link.medium.com/C5O6mlCR6lb)
